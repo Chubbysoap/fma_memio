@@ -1,4 +1,4 @@
-package fma
+package chipyard.fma
 
 import chisel3._
 
